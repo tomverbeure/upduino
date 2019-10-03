@@ -1,8 +1,8 @@
 
 module chip (
-	output	LED_R,
-	output	LED_G,
-	output	LED_B
+	output	LED_R_,
+	output	LED_G_,
+	output	LED_B_
 	);
 
 	wire clk, led;
@@ -19,8 +19,8 @@ module chip (
     		.led(led)
 	);
 
-	assign LED_R = led;
-	assign LED_G = led;
-	assign LED_B = led;
+	assign LED_R_ = ~led;
+	assign LED_G_ = ~led;
+	assign LED_B_ = ~led;
 
 endmodule
