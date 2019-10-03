@@ -16,7 +16,7 @@ burn your eyeballs if you stare at it long enough.
 
     Builds ```chip.bin``` bitstream
 
-* ```make flash```
+* ```sudo make flash```
 
     Program the bitstream to the device.
 
