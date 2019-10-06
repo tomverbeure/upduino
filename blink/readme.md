@@ -6,9 +6,17 @@ burn your eyeballs if you stare at it long enough.
 
 # Requirements
 
-* Yosys
-* Arachne-pnr
 * Project IceStorm
+
+    Install this first.
+
+* Yosys
+
+    Synthesis tool.
+
+* nextpnr
+
+    Place & Route tool
 
 # Usage
 
