@@ -5,6 +5,8 @@
 
   * [Datasheet](http://www.latticesemi.com/-/media/LatticeSemi/Documents/DataSheets/iCE/iCE40-UltraPlus-Family-Data-Sheet.ashx)
 
+  * [Cell Library](http://www.latticesemi.com/~/media/LatticeSemi/Documents/TechnicalBriefs/SBTICETechnologyLibrary201608.pdf)
+
   * Built-in I2C and SPI controllers (2 each)
 
       * [iCE40 SPI/I2C Hardened IP Usage Guide](http://www.latticesemi.com/view_document?document_id=50480)
