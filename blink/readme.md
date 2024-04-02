@@ -4,6 +4,9 @@
 This 'Hello World' equivalent simply blinks the RGB LED. They're high intensity LEDs that will almost
 burn your eyeballs if you stare at it long enough.
 
+*Check out the code in [this issue](https://github.com/tomverbeure/upduino/issues/3). It shows how you
+can reduce the current of the LED drivers.*
+
 # Requirements
 
 * Project IceStorm
